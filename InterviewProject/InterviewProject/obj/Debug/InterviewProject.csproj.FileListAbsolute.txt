@@ -1,0 +1,11 @@
+C:\Users\rrobi\source\repos\InterviewProject\InterviewProject\bin\Debug\InterviewProject.exe.config
+C:\Users\rrobi\source\repos\InterviewProject\InterviewProject\bin\Debug\InterviewProject.exe
+C:\Users\rrobi\source\repos\InterviewProject\InterviewProject\bin\Debug\InterviewProject.pdb
+C:\Users\rrobi\source\repos\InterviewProject\InterviewProject\obj\Debug\InterviewProject.csproj.AssemblyReference.cache
+C:\Users\rrobi\source\repos\InterviewProject\InterviewProject\obj\Debug\InterviewProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\rrobi\source\repos\InterviewProject\InterviewProject\obj\Debug\InterviewProject.Form1.resources
+C:\Users\rrobi\source\repos\InterviewProject\InterviewProject\obj\Debug\InterviewProject.Properties.Resources.resources
+C:\Users\rrobi\source\repos\InterviewProject\InterviewProject\obj\Debug\InterviewProject.csproj.GenerateResource.cache
+C:\Users\rrobi\source\repos\InterviewProject\InterviewProject\obj\Debug\InterviewProject.csproj.CoreCompileInputs.cache
+C:\Users\rrobi\source\repos\InterviewProject\InterviewProject\obj\Debug\InterviewProject.exe
+C:\Users\rrobi\source\repos\InterviewProject\InterviewProject\obj\Debug\InterviewProject.pdb
